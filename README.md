@@ -22,6 +22,9 @@ hook.exe must be in same folder as get_Team_Pass.exe
     get_Team_Pass.exe -t [targetIp] -u [Username] -p [UsernamePassword] -d [usernameDomain]  # -d parameter is optional
  		get_Team_Pass.exe -t 192.168.175.136 -u administrator -p Password2018
  		get_Team_Pass.exe -t 192.168.175.136 -u administrator -p Password2018 -d domain
+
+# Execution video
+https://goo.gl/VhWF4g 
     
 # Sha-256 checksums of files
 
