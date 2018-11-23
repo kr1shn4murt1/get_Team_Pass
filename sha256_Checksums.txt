@@ -1,0 +1,4 @@
+Algorithm       Hash                                                                   File
+---------       ----                                                                   ----
+SHA256          28F71132305CFA45F4335FA8F9E3ADE52CC9E3339AECDCA795FBD5EA51894351       get_Team_Pass.exe
+SHA256          57F62D0CB5656ED2D79DC16C25A9B0D3AACC307D945CED5B0F1CAA1F563735C1       hook.exe
