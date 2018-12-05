@@ -44,7 +44,6 @@ kronux.com.co
     
 # TODO
 
-Release the source code in a few days, meanwhile feel free to reverse it
 Reduce the final size of the compiled files
 Add more exception handling
 Add network range capabilities to check all computers in a lan
