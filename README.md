@@ -25,6 +25,9 @@ hook.exe must be in same folder as get_Team_Pass.exe
 
 # Execution video
 https://goo.gl/VhWF4g 
+
+# Blog
+https://kr1shn4murt1.blogspot.com/2018/12/obtener-el-id-y-password-de-teamviewer.html 
     
 # Sha-256 checksums of files
 
