@@ -61,7 +61,7 @@ kronux.com.co
 This program uses pywinauto lib to get the ID and password from the graphical teamviewer window
 
 It also uses psexec, so if execution fails, test this command:
-psexec.exe -u user -p password \\targetip cmd -accepteula
+psexec.exe -u user -p password \\\targetip cmd -accepteula
 https://download.sysinternals.com/files/PSTools.zip
 
 if the command works, this tool should work
