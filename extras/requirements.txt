@@ -1,0 +1,4 @@
+pysmb
+pywinauto
+psutil
+pyinstaller
