@@ -38,7 +38,7 @@ https://kr1shn4murt1.blogspot.com/2018/12/obtener-el-id-y-password-de-teamviewer
 
 This commands will generate files get_Team_Pass and hook.exe
 
-pip install -r extras/requirements
+pip install -r extras/requirements.txt
 
 pyinstaller --onefile --icon=k.ico --version-file=get_Team_Pass_Version.txt get_Team_Pass.py 
 
